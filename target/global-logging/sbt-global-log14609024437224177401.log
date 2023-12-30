@@ -1,7 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly gcd.Lab4.Task2test -- -DwriteVcd=1, Some(46e9a90d-2e73-4e73-885b-061d3b40ad52), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mPassed: Total 0, Failed 0, Errors 0, Passed 0[0m
-[0m[[0m[0minfo[0m] [0m[0mNo tests to run for Test / testOnly[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed Dec 11, 2023, 11:54:43 AM[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
