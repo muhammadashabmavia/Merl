@@ -1,3 +1,3 @@
 package gcd.Lab5
 
-// Bina cloneType method ke, Chisel types ko clone karna aur maintain karna mushkil ho jata hai. Yeh method instances ko copy karte waqt aur type compatibility mein madad karta hai. Isse custom types, jaise Adder_Inputs, sahi tareeke se create aur manipulate nahi ho paate. cloneType ko sahi implement karna jaruri hai taki Chisel properties sahi tareeke se maintain ho sake aur instances ko sahi se copy kiya ja sake.  
+// Bina cloneType method ke, Chisel types ko clone karna aur maintain karna mushkil ho jata hai. Yeh method instances ko copy karte waqt aur type compatibility mein madad karta hai. Isse custom types, jaise Adder_Inputs, sahi tareeke se create aur manipulate nahi ho paate. cloneType ko sahi implement karna zaruri hai taki Chisel properties sahi tareeke se maintain ho sake aur instances ko sahi se copy kiya ja sake.  
